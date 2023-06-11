@@ -1,3 +1,3 @@
 # Projeto-02-Bootstrap
-Projeto 02 Bootstrap Faculdade Flamingo
-Projeto com a Framework Bootstrap para Faculdade Flamingo.
+Projeto estudantil 02 Faculdade Flamingo:
+Desenvolvido um site com o framework BootStrap,acesse link em "About".
